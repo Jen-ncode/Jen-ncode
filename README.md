@@ -1,4 +1,4 @@
-<img alt="banner" style="width:50 hight: 50 " src="coding.gif">
+<img alt="banner" style="width:50vm " src="coding.gif">
 
 
 <h1 align="center">Hi 👋, I'm Phong</h1>
