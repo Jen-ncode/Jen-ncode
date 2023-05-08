@@ -1,6 +1,4 @@
 
-<img alt="banner" style="width:100vw" src="nen0110.webp">
-
 <h1 align="center">Hi 👋, I'm Phong</h1>
 <h3 align="center">I am a Student</h3>
 
