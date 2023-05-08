@@ -1,5 +1,5 @@
 
-<img alt="banner" style="width:100vw" src="KoANiG9.gif">
+<img alt="banner" style="width:100vw" src="">
 
 <h1 align="center">Hi 👋, I'm Phong</h1>
 <h3 align="center">I am a Student</h3>
