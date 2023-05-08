@@ -1,5 +1,4 @@
 <img alt="banner" style="width:200vw " src="coding.gif">
-<td width="52%"><img alt="gif" align="right" src="coding.gif"/></td>
 
 <h1 align="center">Hi 👋, I'm Phong</h1>
 <h3 align="center">I am a Student</h3>
