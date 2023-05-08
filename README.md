@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <img alt="banner" style="width:100vw" src="./img/242e379f970c22bf30e1689290627058.gif">
 
-<h1 align="center">Hi 👋, I'm Binh</h1>
+<h1 align="center">Hi 👋, I'm Phong</h1>
 <h3 align="center">I am a Student</h3>
 
 ### 🛠 My knowledge
@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 </p>
 
 ### 🌐️ Reach me at
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NVB07)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100030906050783)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@nvb.7)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jen-ncode)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/nguyentran.210)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)]()
