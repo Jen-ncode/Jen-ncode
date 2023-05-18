@@ -4,7 +4,7 @@
 <h3 align="center">I am a Student</h3>
 
 ### 🛠 My knowledge
-![C#](https://img.shields.io/badge/c%23-%2320232a.svg?style=flat-square&logo=c-sharp&logoColor=white)
+![](https://img.shields.io/badge/c%23-%2320232a.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![C++](https://img.shields.io/badge/c++-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![SQL](https://img.shields.io/badge/sql-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
