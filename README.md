@@ -21,9 +21,9 @@
 
 ### 📚 Github Status
 <p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jen-ncode&theme=dracula&show=repos" alt="Jen-ncode's GitHub stats" />
 <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jen-ncode&theme=dracula&show_icons=true" />
 <img height="200" src="https://github-readme-stats.vercel.app/api?username=Jen-ncode&show_icons=true&theme=dracula&include_all_commits=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jen-ncode&theme=dracula&show=repos" alt="Jen-ncode's GitHub stats" />
 </p>
 <table>
   <tbody>
