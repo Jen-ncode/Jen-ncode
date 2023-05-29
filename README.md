@@ -52,3 +52,10 @@
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)]()
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
+
+<div align="center">
+  
+![Snake animation](https://github.com/howznguyen/howznguyen/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake animation](https://github.com/howznguyen/howznguyen/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+  
+</div>
