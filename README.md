@@ -52,9 +52,11 @@
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)]()
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
+Pull a github user's contribution graph.
+Make it a snake Game, generate a snake path where the cells get eaten in an orderly fashion.
 
-![snake animation](https://github.com/Jen-ncode/Jen-ncode/blob/output/github-contribution-grid-snake2.svg)
-![snake animation](https://github.com/Jen-ncode/Jen-ncode/blob/output/github-contribution-grid-snake2.svg)
+Generate a [gif](https://github.com/Jen-ncode//output/github-contribution-grid-snake.gif) or [svg](https://github.com/Jen-ncode/output/github-contribution-grid-snake.svg) image.
+
 
 
 
