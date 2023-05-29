@@ -48,7 +48,7 @@
 <img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" title="Firebase" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" title="WordPress" height="25"/> &nbsp;
 </p>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ### 🌐️ Reach me at
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jen-ncode)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/nguyentran.210)
