@@ -26,7 +26,7 @@
  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Jen-ncode&show_icons=true&theme=dracula&include_all_commits=true" />
  <br>
  
- <table>
+
   <tbody>
     <tr>
       <td>
@@ -36,5 +36,5 @@
       </td>
     </tr>
   </tbody>
- </table>
+
  <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
