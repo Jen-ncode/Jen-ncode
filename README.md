@@ -26,6 +26,8 @@
 
 ### 🛠 Languages and Tools
 <p align="left">
+ <img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=007396" title="Java" height="25"/> &nbsp;
+ <img src="https://img.shields.io/badge/C%23-282C34?logo=c-sharp&logoColor=68217A" title="C#" height="25"/> &nbsp;
  <img src="https://img.shields.io/badge/C++-282C34?logo=c%2B%2B&logoColor=00599C" title="C++" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" title="JavaScript" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" title="TypeScript" height="25"/> &nbsp;
