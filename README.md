@@ -55,7 +55,7 @@
 
 <div align="center">
   
-![Snake animation](https://github.com/howznguyen/howznguyen/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![Snake animation](https://github.com/howznguyen/howznguyen/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://github.com/Jen-ncode/Jen-ncode/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake animation](https://github.com/Jen-ncode/Jen-ncode/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
   
 </div>
