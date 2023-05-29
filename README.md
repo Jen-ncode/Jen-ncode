@@ -5,15 +5,6 @@
 <h3 align="center">I am a Student</h3>
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=The+memory+is+still+there+,+only+we+leave+"></p>
 
-- 🇻🇳 : I'm from VietNam
-                       - 👀 : Here is [my personal website]
-                       - ✍️ : There is [my blog and articles]
-                       - 📧 : Contact me at [admin@crfnetwork.cyou]
-                       - ❤️ : I'm passionate about:
-                             - 🔐 
-                             - 🪐 
-                             - 🖥️ 
-                             - 📝 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
