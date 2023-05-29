@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Phong</h1>
 <h3 align="center">I am a Student</h3>
-<p align="right" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=The+memory+is+still+there+;+only+we+leave;The+memory+is+still+there+;+only+we+leave;"></p>
+<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=The+memory+is+still+there+,+only+we+leave;The+memory+is+still+there+,+only+we+leave;"></p>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
