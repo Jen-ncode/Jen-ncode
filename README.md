@@ -24,7 +24,7 @@
  
  <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jen-ncode&theme=dracula&show_icons=true" />
  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Jen-ncode&show_icons=true&theme=dracula&include_all_commits=true" />
- <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
+
  </p>
 <table>
   <tbody>
@@ -36,6 +36,7 @@
       </td>
     </tr>
   </tbody>
+  <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
   </table>
 
 
