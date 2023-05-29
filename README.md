@@ -3,15 +3,7 @@
 <h1 align="center">Hi 👋, I'm Phong</h1>
 <h3 align="center">I am a Student</h3>
 
-
-
-
-
-
-
-
 ### 🛠 My knowledge
-
 ![Typescript](https://img.shields.io/badge/Typescript-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Java](https://img.shields.io/badge/java-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![C++](https://img.shields.io/badge/c++-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
@@ -25,9 +17,9 @@
 <p>
  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jen-ncode&theme=dracula&show_icons=true" />
  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Jen-ncode&show_icons=true&theme=dracula&include_all_commits=true" />
-<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
-</p>
 
+</p>
+<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 ### 🌐️ Reach me at
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jen-ncode)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/nguyentran.210)
