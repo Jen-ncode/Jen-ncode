@@ -1,4 +1,4 @@
-<img alt="banner" style="width:200vw " src="coding.gif">  
+<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 
 <h1 align="center">Hi 👋, I'm Phong</h1>
 <h3 align="center">I am a Student</h3>
