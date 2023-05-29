@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Phong</h1>
 <h3 align="center">I am a Student</h3>
 
-<br>
 ### 🛠 My knowledge
 ![Typescript](https://img.shields.io/badge/Typescript-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Java](https://img.shields.io/badge/java-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
