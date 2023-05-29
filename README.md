@@ -25,14 +25,16 @@
  <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jen-ncode&theme=dracula&show_icons=true" />
  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Jen-ncode&show_icons=true&theme=dracula&include_all_commits=true" />
  <br>
+ 
  <table>
   <tbody>
     <tr>
       <td>
         <a href="https://github-readme-streak-stats.herokuapp.com/?user=Jen-ncode">
-          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=Jen-ncode&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
+          <img width="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Jen ncode&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
         </a>
       </td>
     </tr>
   </tbody>
- 
+ </table>
+ <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
