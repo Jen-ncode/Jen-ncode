@@ -4,7 +4,6 @@
 <h3 align="center">I am a Student</h3>
 
 <br>
-
 ### 🛠 My knowledge
 ![Typescript](https://img.shields.io/badge/Typescript-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Java](https://img.shields.io/badge/java-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
@@ -15,7 +14,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 
-
+<br> 
 ### 📚 Github Status
 
 <p>
