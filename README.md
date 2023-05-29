@@ -18,7 +18,7 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jen-ncode&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&exclude=JupyterNotebook&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" height="160">
-<img src="https://github-readme-stats.vercel.app/api?username=Jen-ncode&show_icons=true&theme=react&border_color=61dafb&hide_border=true" height="160">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jen-ncode&theme=dracula" height="160">
 </p>
 
 ### 🌐️ Reach me at
