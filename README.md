@@ -53,9 +53,8 @@
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
 
-<div align="center">
-  
-![Snake animation](https://github.com/Jen-ncode/Jen-ncode/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![Snake animation](https://github.com/Jen-ncode/Jen-ncode/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-  
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
