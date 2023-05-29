@@ -6,9 +6,7 @@
 <h3 align="center">I am a Student</h3>
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=The+memory+is+still+there+,+only+we+leave;The+memory+is+still+there+,+only+we+leave;"></p>
 
-<hr>
-<hr>
-<hr>
+<hr><hr><hr>
 
 ### 🌐️ Reach me at
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jen-ncode)
