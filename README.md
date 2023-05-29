@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Phong</h1>
 <h3 align="center">I am a Student</h3>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🌐️ Reach me at
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jen-ncode)
