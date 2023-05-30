@@ -4,12 +4,6 @@
 <!-- Description -->
 ### 🔰 About me 🔰
 <h1>👋 Hello, I'm Phong</h1>
-- 👋 You can also call me --Jen--
-- 🎓 I'm studying at Ho Chi Minh City Open University
-- 📚 I’m currently learning --Designer-developerby-- self
-- 📫 This is my email [nguyentv2402@gmail.com](mailto:nguyentv2402@gmail.com)
-
-
 <p style="color:#36BCF7FF;">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=The+memory+is+still+there+,+only+we+leave;The+memory+is+still+there+,+only+we+leave;">
 </p>
