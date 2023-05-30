@@ -1,9 +1,9 @@
 <!-- Header -->
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <p align="center">
-<h1  color="#36BCF7FF">Hi 👋, I'm Phong</h1>
-<h3  color="#36BCF7FF" >I am a Student</h3>
-<p color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=The+memory+is+still+there+,+only+we+leave;The+memory+is+still+there+,+only+we+leave;"></p>
+<h1>Hi 👋, I'm Phong</h1>
+<h3>I am a Student</h3>
+<p color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com lines=The+memory+is+still+there+,+only+we+leave;The+memory+is+still+there+,+only+we+leave;"></p>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -20,7 +20,6 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 
 
