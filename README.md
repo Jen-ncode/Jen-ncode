@@ -1,8 +1,8 @@
 <!-- Header -->
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <p align="center">
-<h1>Hi 👋, I'm Phong</h1>
-<h3>I am a Student</h3>
+<h1>👋 Hello, I'm Jen</h1>
+<h3>" "</h3>
 <p style="color:#36BCF7FF;">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=The+memory+is+still+there+,+only+we+leave;The+memory+is+still+there+,+only+we+leave;">
 </p>
