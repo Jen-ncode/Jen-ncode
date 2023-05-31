@@ -1,19 +1,13 @@
 <!-- Header -->
-<div>
+
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
-
-
 <h1>👋 Hello, I'm Phong</h1>
 <p style="color:#36BCF7FF;">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=The+memory+is+still+there+,+only+we+leave;The+memory+is+still+there+,+only+we+leave;">
 </p>
-</div>
-
-
 
 
 <hr>
-
 
 
 ### 📚 Github Status
@@ -21,20 +15,15 @@
 <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jen-ncode&theme=dracula&show_icons=true" />
 <img width="500"height="200" src="https://github-readme-stats.vercel.app/api?username=Jen-ncode&show_icons=true&theme=dracula&include_all_commits=true" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jen-ncode&theme=dracula&show=repos" alt="Jen-ncode's GitHub stats" />
- <a href="https://github-readme-streak-stats.herokuapp.com/?user=Jen-ncode">
-          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=Jen-ncode&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
-        </a>
+ <a href="https://github-readme-streak-stats.herokuapp.com/?user=Jen-ncode"><img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=Jen-ncode&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true"></a>
 </p>
-
-<hr>
-
 
 
 ### 🛠 Languages and Tools
 <p align="left">
- <img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=007396" title="Java" height="25"/> &nbsp;
- <img src="https://img.shields.io/badge/C%23-282C34?logo=c-sharp&logoColor=68217A" title="C#" height="25"/> &nbsp;
- <img src="https://img.shields.io/badge/C++-282C34?logo=c%2B%2B&logoColor=00599C" title="C++" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=007396" title="Java" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/C%23-282C34?logo=c-sharp&logoColor=68217A" title="C#" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/C++-282C34?logo=c%2B%2B&logoColor=00599C" title="C++" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" title="JavaScript" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" title="TypeScript" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" title="ReactJS" height="25"/> &nbsp;
@@ -50,7 +39,6 @@
 <img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" title="WordPress" height="25"/> &nbsp;
 </p>
 
-<hr>
 
 
 ### 🌐️ Reach me at
