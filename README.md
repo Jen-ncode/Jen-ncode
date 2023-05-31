@@ -7,7 +7,6 @@
 </p>
 
 
-<hr>
 
 
 ### 📚 Github Status
@@ -18,6 +17,7 @@
  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Jen-ncode"><img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=Jen-ncode&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true"></a>
 </p>
 
+--
 
 ### 🛠 Languages and Tools
 <p align="left">
@@ -39,13 +39,14 @@
 <img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" title="WordPress" height="25"/> &nbsp;
 </p>
 
-
+--
 
 ### 🌐️ Reach me at
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jen-ncode)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/nguyentran.210)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)]()
 
+--
 
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
