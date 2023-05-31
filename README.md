@@ -1,4 +1,5 @@
 <!-- Header -->
+<div>
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 
 
@@ -6,7 +7,7 @@
 <p style="color:#36BCF7FF;">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=The+memory+is+still+there+,+only+we+leave;The+memory+is+still+there+,+only+we+leave;">
 </p>
-
+</div>
 
 
 
