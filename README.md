@@ -7,7 +7,10 @@
 
 
 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=The+memory+is+still+there%2C+only+we+leave" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=
+            ....
+            .....
+            ....." />
 </p>
 
 
