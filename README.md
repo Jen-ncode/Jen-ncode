@@ -3,7 +3,8 @@
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1>👋 Hello, I'm Phong</h1>
 <p style="color:#36BCF7FF;">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=The+memory+is+still+there+,+only+we+leave;The+memory+is+still+there+,+only+we+leave;">
+    <img src="https://readme-typing-svg.herokuapp.com/?
+lines=The+memory+is+still+there+,+only+we+leave">
 </p>
 
 
