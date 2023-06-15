@@ -19,7 +19,7 @@
 ### 📚 Github Status
 <p align="center">
 <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jen-ncode&theme=dracula&show_icons=true" />
-  <img img width="500"height="200" src="https://github-readme-stats-umber-pi-80.vercel.app//api?username=Jen-ncode&rank_icon=github&show_icons=truee&hide_border=true&custom_title=Maryokuu's%20Github%20Stats&theme=react" />
+<img img width="500"height="200" src="https://github-readme-stats-umber-pi-80.vercel.app//api?username=Jen-ncode&rank_icon=github&show_icons=truee&hide_border=true&custom_title=Jen-ncode%20Github%20Stats&theme=react" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jen-ncode&theme=dracula&show=repos" alt="Jen-ncode's GitHub stats" />
  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Jen-ncode"><img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=Jen-ncode&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true"></a>
 </p>
