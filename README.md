@@ -1,15 +1,5 @@
 <!-- Header -->
 
-
-  
-
-
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
 ### 📚 Github Status
 <p align="center">
 <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jen-ncode&theme=dracula&show_icons=true" />
