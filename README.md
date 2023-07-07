@@ -2,8 +2,6 @@
 
 ### 📚 Github Status
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jen-ncode&theme=dracula&show_icons=true" />
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jen-ncode&theme=dracula&show=repos" alt="Jen-ncode's GitHub stats" />
  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Jen-ncode"><img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=Jen-ncode&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true"></a>
 </p>
