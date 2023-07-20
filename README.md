@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]
 
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
@@ -10,11 +10,7 @@
   <a href="#" title="Trungquandev">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=Jen-ncode&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jen-ncode&&theme=tokyonight" alt="Jen-ncode" /></p>
 </div>
 
 
