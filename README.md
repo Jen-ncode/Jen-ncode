@@ -1,16 +1,19 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]
 
 
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<br>
-<div align=center>
-  <a href="#" title="Jen-ncode">
-      <img width = 350 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jen-ncode&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Jen-ncode" />
-      <img width = 350 align="right" src="https://github-readme-stats.vercel.app/api?username=Jen-ncode&show_icons=true&locale=en&theme=tokyonight" alt="Jen-ncode" />
-    <br>
-      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jen-ncode&&theme=tokyonight" alt="Jen-ncode" /></p>
- </a>
+<!-- Statistics -->
+
+<h2 style="color: #44AEFB">📊 Statistics</h2>
+
+![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
+
+<div class="stats" align="center">
+![Jen-ncode's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jen-ncode&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![GitHub Streak](https://streak-stats.demolab.com?user=Jen-ncode&count_private=true&theme=algolia&border_radius=20)
+<!
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jen-ncode&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
+
 
 
 ### 🛠 Languages and Tools
