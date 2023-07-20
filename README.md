@@ -3,16 +3,21 @@
 
 <!-- Statistics -->
 
+<!-- Statistics -->
+
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
 <div class="stats" align="center">
+
 ![Jen-ncode's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jen-ncode&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Jen-ncode&count_private=true&theme=algolia&border_radius=20)
-<!
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jen-ncode&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
+<!--  End Stats Cards -->
 
 
 
