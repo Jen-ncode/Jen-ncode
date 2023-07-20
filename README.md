@@ -5,7 +5,7 @@
 <br>
 <div align=center>
   <a href="#" title="Jen-ncode">
-      <p><img width = 500 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jen-ncode&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Jen-ncode" /></p>
+      <p><img width = 400 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jen-ncode&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Jen-ncode" /></p>
       <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jen-ncode&show_icons=true&locale=en&theme=tokyonight" alt="Jen-ncode" /></p>
       <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jen-ncode&&theme=tokyonight" alt="Jen-ncode" /></p>
  </a>
