@@ -1,10 +1,16 @@
 <!-- Header -->
 
-### 📚 Github Status
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jen-ncode&theme=dracula&show=repos" alt="Jen-ncode's GitHub stats" />
- <a href="https://github-readme-streak-stats.herokuapp.com/?user=Jen-ncode"><img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=Jen-ncode&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true"></a>
-</p>
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<br>
+<div align=center>
+  <a href="#" title="Jen-ncode">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jen-ncode&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  </a>
+  <a href="#" title="Trungquandev">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=Jen-ncode&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  </a>
+</div>
 
 
 ### 🛠 Languages and Tools
