@@ -33,7 +33,9 @@
 <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" title="CSS3" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" title="Bootstrap" height="25"/> &nbsp;
 </p>
+<!--Sneek Gusano-->
 
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
 
