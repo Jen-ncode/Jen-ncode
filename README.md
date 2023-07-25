@@ -7,21 +7,68 @@
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
-<div class="stats" align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Jen-ncode's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jen-ncode&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
-  
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-readme-streak-stats.herokuapp.com/?user=Jen-ncode">
+          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=Jen-ncode&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jen-ncode">
+          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jen-ncode&theme=dracula"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://activity-graph.herokuapp.com/graph?username=Jen-ncode">
+          <img width="705" src="https://activity-graph.herokuapp.com/graph?username=Jen-ncode&theme=dracula">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-
-![Jen-ncode's GitHub Stats](https://streak-stats.demolab.com?user=Jen-ncode&count_private=true&theme=algolia&border_radius=20")
-
-
-
-  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jen-ncode">
-          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jen-ncode&theme=algolia&border radius=20"/>
-
- 
-</div>
+<table>
+  <tbody>
+    <tr>
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jen-ncode">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jen-ncode&theme=dracula"/>
+        </a>
+      </th>
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jen-ncode">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jen-ncode&theme=dracula"/>
+        </a>
+      </th>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jen-ncode">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jen-ncode&theme=dracula"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jen-ncode">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jen-ncode&theme=dracula"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 <!--  End Stats Cards -->
 
 
