@@ -19,6 +19,15 @@
       </td>
     </tr>
   </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jen-ncode">
+          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jen-ncode&theme=dracula"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
 <table>
   <tbody>
     <tr>
