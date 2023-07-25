@@ -13,7 +13,6 @@
   
 ![GitHub Streak](https://streak-stats.demolab.com?user=Jen-ncode&count_private=true&theme=algolia&border_radius=20)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jen-ncode&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 <!--  End Stats Cards -->
 
