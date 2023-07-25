@@ -16,9 +16,11 @@
 ![Jen-ncode's GitHub Stats](https://streak-stats.demolab.com?user=Jen-ncode&count_private=true&theme=algolia&border_radius=20")
 
 
+
   <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jen-ncode">
           <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jen-ncode&theme=algolia&border radius=20"/>
-  </a>
+
+ 
 </div>
 <!--  End Stats Cards -->
 
