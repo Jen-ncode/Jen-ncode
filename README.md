@@ -13,6 +13,9 @@
   
 ![GitHub Streak](https://streak-stats.demolab.com?user=Jen-ncode&count_private=true&theme=algolia&border_radius=20)
 
+  <a href="https://activity-graph.herokuapp.com/graph?username=Jen-ncode">
+          <img width="705" src="https://activity-graph.herokuapp.com/graph?username=Jen-ncode&theme=dracula">
+  </a>
 </div>
 <!--  End Stats Cards -->
 
