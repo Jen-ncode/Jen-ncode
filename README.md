@@ -5,7 +5,7 @@
 
 <!-- Statistics -->
 
-<h2 style="color: #44AEFB">📊 Statistics</h2>
+### 📈 User Statistics
 <div align="center">
 <table>
   <tbody>
